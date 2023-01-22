@@ -1,0 +1,9 @@
+name: Campfires
+version: ${project.version}
+main: me.skript.campfires.Campfires
+api-version: 1.13
+authors: [ Skript ]
+description: Custom Campfires
+commands:
+  Campfire:
+    aliases: [campfires]

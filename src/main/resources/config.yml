@@ -1,0 +1,19 @@
+Campfires:
+  Example:
+    Name: "&6&l[&e!&6&l] Example Campfire"
+    Expiration: 5 #Campfire effects will expire after 60 seconds
+    Effects:
+      - 'STRENGTH:1:5' #Strength 1 effect for 5 seconds, obviously will be renewed
+    Radius:
+      X: 10
+      Y: 10
+      Z: 10
+    Lore:
+      - " "
+      - "&eInformation"
+      - "&e&l  &7Type: &fBasic"
+      - "&e&l  &7Radius: 10x10x10"
+      - "&e&l  &7Effects: &fStrength 1"
+      - ""
+      - "&7&o(( Once placed whoever is in "
+      - "&7&othe radius of the campfire will receive effects!! ))"
